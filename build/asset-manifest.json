@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QuickTrade/static/css/main.0252cd57.css",
+    "main.js": "/QuickTrade/static/js/main.6403a169.js",
+    "index.html": "/QuickTrade/index.html",
+    "main.0252cd57.css.map": "/QuickTrade/static/css/main.0252cd57.css.map",
+    "main.6403a169.js.map": "/QuickTrade/static/js/main.6403a169.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0252cd57.css",
+    "static/js/main.6403a169.js"
+  ]
+}
